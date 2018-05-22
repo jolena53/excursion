@@ -1,27 +1,14 @@
-body {
-  background-color: black;
-  text-align: center;
-}
 h1,
-h2,
-h3,
 h4 {
-  font-family: "Verdana", sans-serif;
-}
+  font-family: Verdana;
 
 h1 {
-    font-weight: normal;
-    font-size: 50px;
-    color: white;
-    text-align: center;
-}
-h3 {
-  font-size: 21px;
-  text-align: right;
-  color: Gray;
-}
+  font-size;: 50px
+  color: blue;
+  text-align: center;
+ }
 
-h4 {
+ h4 {
   font-size: 16px;
   color: Aquamarine;
-}
+ }
