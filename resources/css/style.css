@@ -4,11 +4,9 @@ body {
 }
 
 h1,
-h2,
-h4 {
+h2 {
   font-family: Verdana, sans-serif;
   color: white;
-
 }
 
 h1 {
@@ -18,7 +16,7 @@ h1 {
  }
 
 h2 {
-  font-weight: 500;
+  font-weight: 300;
   font-size: 42px;
 }
 h3 {
